@@ -1,4 +1,4 @@
-@charset "euc-jp";
+@charset "utf-8";
 /*
 
 	CRITICAL VELOCITY.css
@@ -8,10 +8,10 @@
 /*-- Base --*/
 body						{ margin: 0px; padding: 0px; }
 a img						{ border-style : none; border-width : 0px; text-decoration : none; }
-a							{ color :#A1724A; font-size: 14px; font-weight: normal; line-height: 140%; font-family: "£Í£Ó £Ð¥´¥·¥Ã¥¯", Osaka, "¥Ò¥é¥®¥Î³Ñ¥´ Pro W3"; text-decoration: none; }
-a:hover						{ color :#FBAF5D; font-size: 14px; font-weight: normal; line-height: 140%; font-family: "£Í£Ó £Ð¥´¥·¥Ã¥¯", Osaka, "¥Ò¥é¥®¥Î³Ñ¥´ Pro W3"; text-decoration: none; }
+a							{ color :#A1724A; font-size: 14px; font-weight: normal; line-height: 140%; font-family: "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯", Osaka, "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3"; text-decoration: none; }
+a:hover						{ color :#FBAF5D; font-size: 14px; font-weight: normal; line-height: 140%; font-family: "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯", Osaka, "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3"; text-decoration: none; }
 h1, h2, h3, h4, h5, h6		{ margin: 0px; padding: 0px; }
-p.para						{ color :#333333; font-size: 14px; font-weight: normal; line-height: 140%; font-family: "£Í£Ó £Ð¥´¥·¥Ã¥¯", Osaka, "¥Ò¥é¥®¥Î³Ñ¥´ Pro W3"; }
+p.para						{ color :#333333; font-size: 14px; font-weight: normal; line-height: 140%; font-family: "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯", Osaka, "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3"; }
 
 .c							{ text-align: center; }
 .r							{ text-align: right; }
@@ -55,7 +55,7 @@ div#speck	{ margin-top: 10px; margin-bottom: 50px; text-align: center; }
 #banner		{ margin: 15px auto; text-align: center; }
 
 /* ------ CHARACTER ------ */
-body#chara p.para{ color :#333333; font-size: 14px; font-weight: normal; text-align:left!important; line-height:90%; font-family: "£Í£Ó £Ð¥´¥·¥Ã¥¯", Osaka, "¥Ò¥é¥®¥Î³Ñ¥´ Pro W3"; }
+body#chara p.para{ color :#333333; font-size: 14px; font-weight: normal; text-align:left!important; line-height:90%; font-family: "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯", Osaka, "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3"; }
 
 #charaSaul		{ width: 700px; height: 380px; background: no-repeat bottom url("../../character/img/saul_img.jpg")/*tpa=character/img/saul_img.jpg*/; display:table;  }
 #charaGordon	{ width: 700px; height: 380px; border-bottom: 1px solid #77776F; margin-top: 20px; background: no-repeat bottom url("../../character/img/gordon_img.jpg")/*tpa=character/img/gordon_img.jpg*/; display:table;  }
@@ -69,7 +69,7 @@ body#chara p.para{ color :#333333; font-size: 14px; font-weight: normal; text-al
 #charaGliffin		{ width: 700px; height: 315px; background: no-repeat url("../../character/img/griffin_img.jpg")/*tpa=character/img/griffin_img.jpg*/;   display:table;}
 #charaWilliams		{ width: 700px; height: 315px; background: no-repeat url("../../character/img/williams_img.jpg")/*tpa=character/img/williams_img.jpg*/;  background-position:right; display:table;}
 
-#spec{color :#333333; font-size: 14px; font-weight: normal; line-height: 140%; font-family: "£Í£Ó £Ð¥´¥·¥Ã¥¯", Osaka, "¥Ò¥é¥®¥Î³Ñ¥´ Pro W3"; }
+#spec{color :#333333; font-size: 14px; font-weight: normal; line-height: 140%; font-family: "ï¼­ï¼³ ï¼°ã‚´ã‚·ãƒƒã‚¯", Osaka, "ãƒ’ãƒ©ã‚®ãƒŽè§’ã‚´ Pro W3"; }
 .red_flame	{background-color:#CC0000;padding:1px; margin:10px; width:400px;}
 .warning_contents { background-color:#FFFFFF; padding:5px; text-align:left;}
 .warning_contents h4 {color:#CC0000; line-height:120%;margin-bottom:10px; font-size:14px; text-align:center;}
