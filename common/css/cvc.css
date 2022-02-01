@@ -1,0 +1,76 @@
+@charset "euc-jp";
+/*
+
+	CRITICAL VELOCITY.css
+
+*/
+
+/*-- Base --*/
+body						{ margin: 0px; padding: 0px; }
+a img						{ border-style : none; border-width : 0px; text-decoration : none; }
+a							{ color :#A1724A; font-size: 14px; font-weight: normal; line-height: 140%; font-family: "£Í£Ó £Ð¥´¥·¥Ã¥¯", Osaka, "¥Ò¥é¥®¥Î³Ñ¥´ Pro W3"; text-decoration: none; }
+a:hover						{ color :#FBAF5D; font-size: 14px; font-weight: normal; line-height: 140%; font-family: "£Í£Ó £Ð¥´¥·¥Ã¥¯", Osaka, "¥Ò¥é¥®¥Î³Ñ¥´ Pro W3"; text-decoration: none; }
+h1, h2, h3, h4, h5, h6		{ margin: 0px; padding: 0px; }
+p.para						{ color :#333333; font-size: 14px; font-weight: normal; line-height: 140%; font-family: "£Í£Ó £Ð¥´¥·¥Ã¥¯", Osaka, "¥Ò¥é¥®¥Î³Ñ¥´ Pro W3"; }
+
+.c							{ text-align: center; }
+.r							{ text-align: right; }
+.l							{ text-align: left; }
+
+.paraMargin_a				{ margin: 0 0 0 16px; }
+.paraMargin_b				{ margin: 0 0 0 48px; }
+
+.imaLine img				{ border: 1px solid #A1724A; }
+
+div#disp		{ width: 100%; margin: 0px; padding: 0px; text-align: center; background: url("../img/all/bg.gif")/*tpa=common/img/all/bg.gif*/; }
+div#ncHeader	{ width: 100%; margin: 0px; padding: 0px; }
+div#ncFooter	{ width: 100%; margin: 0px; padding: 0px; }
+
+div#mainContent	{ width: 760px; text-align: center; background: #FFF; border-right: 1px solid #6E6E6E; border-left: 1px solid #6E6E6E; margin: auto; padding: 0px; }
+div#innerContent{ width: 724px; text-align: left; margin: 0px 30px 0 30px; } 
+
+#navigation 	{ width:761px; background: no-repeat url("../img/gnavi/navi_back.jpg")/*tpa=common/img/gnavi/navi_back.jpg*/; margin: 0px; padding: 0px; text-align: center; height:45px; }
+#navigation a	{ display:block; width:100% ; height:45px;}
+#navigation span{ display: none; }
+
+/*navigation*/
+#consept			{ background: no-repeat url("../img/gnavi/gnavi_consept.jpg")/*tpa=common/img/gnavi/gnavi_consept.jpg*/; width:129px; height:45px; }
+#consept a:hover	{ background: no-repeat url("../img/gnavi/gnavi_consept_d.jpg")/*tpa=common/img/gnavi/gnavi_consept_d.jpg*/;}
+#mode				{ background: no-repeat url("../img/gnavi/gnavi_mode.jpg")/*tpa=common/img/gnavi/gnavi_mode.jpg*/; width:128px; height:45px;}
+#mode a:hover		{ background: no-repeat url("../img/gnavi/gnavi_mode_d.jpg")/*tpa=common/img/gnavi/gnavi_mode_d.jpg*/;}
+#misson				{ background: no-repeat url("../img/gnavi/gnavi_misson.jpg")/*tpa=common/img/gnavi/gnavi_misson.jpg*/; width:128px; height:45px;}
+#misson a:hover		{ background: no-repeat url("../img/gnavi/gnavi_misson_d.jpg")/*tpa=common/img/gnavi/gnavi_misson_d.jpg*/;}
+#machine			{ background: no-repeat url("../img/gnavi/gnavi_machine.jpg")/*tpa=common/img/gnavi/gnavi_machine.jpg*/; width:128px; height:45px;}
+#machine a:hover	{ background: no-repeat url("../img/gnavi/gnavi_machine_d.jpg")/*tpa=common/img/gnavi/gnavi_machine_d.jpg*/;}
+#charactor			{ background: no-repeat url("../img/gnavi/gnavi_chara.jpg")/*tpa=common/img/gnavi/gnavi_chara.jpg*/; width:129px; height:45px;}
+#charactor a:hover	{ background: no-repeat url("../img/gnavi/gnavi_chara_d.jpg")/*tpa=common/img/gnavi/gnavi_chara_d.jpg*/;}
+
+.chara_con td{vertical-align:top; text-align: left;}
+.chara_con p{font-size: 12px; line-height: 120%; margin: 0;}
+
+/* ------ TOP ------ */
+div#topHead	{ width: 760px; height: 488px; background: no-repeat url("../img/top/top_img.jpg")/*tpa=common/img/top/top_img.jpg*/; }
+div#speck	{ margin-top: 10px; margin-bottom: 50px; text-align: center; }
+.topm		{ margin: 10px; }
+#banner		{ margin: 15px auto; text-align: center; }
+
+/* ------ CHARACTER ------ */
+body#chara p.para{ color :#333333; font-size: 14px; font-weight: normal; text-align:left!important; line-height:90%; font-family: "£Í£Ó £Ð¥´¥·¥Ã¥¯", Osaka, "¥Ò¥é¥®¥Î³Ñ¥´ Pro W3"; }
+
+#charaSaul		{ width: 700px; height: 380px; background: no-repeat bottom url("../../character/img/saul_img.jpg")/*tpa=character/img/saul_img.jpg*/; display:table;  }
+#charaGordon	{ width: 700px; height: 380px; border-bottom: 1px solid #77776F; margin-top: 20px; background: no-repeat bottom url("../../character/img/gordon_img.jpg")/*tpa=character/img/gordon_img.jpg*/; display:table;  }
+#charaHope		{ width: 700px; height: 380px; margin-top: 20px; background: no-repeat bottom url("../../character/img/hope_img.jpg")/*tpa=character/img/hope_img.jpg*/; display:table;  }
+#charaDiana		{ width: 700px; height: 380px; margin-top: 20px; background: no-repeat bottom url("../../character/img/diana_img.jpg")/*tpa=character/img/diana_img.jpg*/; display:table;  }
+#charaHartman	{ width: 700px; height: 380px; border-bottom: 1px solid #77776F; margin-top: 20px; background: no-repeat bottom url("../../character/img/hartman_img.jpg")/*tpa=character/img/hartman_img.jpg*/; display:table;  }
+#charaPat		{ width: 700px; height: 315px; background: no-repeat url("../../character/img/pat_img.jpg")/*tpa=character/img/pat_img.jpg*/; display:table;  }
+#charaClara		{ width: 700px; height: 322px; background: no-repeat url("../../character/img/clara_img.jpg")/*tpa=character/img/clara_img.jpg*/; background-position:right; display:table;}
+#charaGuy		{ width: 700px; height: 315px; background: no-repeat url("../../character/img/guy_img.jpg")/*tpa=character/img/guy_img.jpg*/;   display:table;}
+#charaMiranda		{ width: 700px; height: 315px; background: no-repeat url("../../character/img/miranda_img.jpg")/*tpa=character/img/miranda_img.jpg*/;  background-position:right; display:table;}
+#charaGliffin		{ width: 700px; height: 315px; background: no-repeat url("../../character/img/griffin_img.jpg")/*tpa=character/img/griffin_img.jpg*/;   display:table;}
+#charaWilliams		{ width: 700px; height: 315px; background: no-repeat url("../../character/img/williams_img.jpg")/*tpa=character/img/williams_img.jpg*/;  background-position:right; display:table;}
+
+#spec{color :#333333; font-size: 14px; font-weight: normal; line-height: 140%; font-family: "£Í£Ó £Ð¥´¥·¥Ã¥¯", Osaka, "¥Ò¥é¥®¥Î³Ñ¥´ Pro W3"; }
+.red_flame	{background-color:#CC0000;padding:1px; margin:10px; width:400px;}
+.warning_contents { background-color:#FFFFFF; padding:5px; text-align:left;}
+.warning_contents h4 {color:#CC0000; line-height:120%;margin-bottom:10px; font-size:14px; text-align:center;}
+.warning_contents p{font-size:12px;}
