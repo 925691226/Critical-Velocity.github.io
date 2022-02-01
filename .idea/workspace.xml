@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0c512b7-cffc-4dd2-9f00-4810303db827" name="变更" comment="" />
+    <list default="true" id="e0c512b7-cffc-4dd2-9f00-4810303db827" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/character/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/character/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/character/index.php.htm" beforeDir="false" afterPath="$PROJECT_DIR$/character/index.php.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/character/subchar.php.htm" beforeDir="false" afterPath="$PROJECT_DIR$/character/subchar.php.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/comment/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/comment/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concept/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/concept/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php.htm" beforeDir="false" afterPath="$PROJECT_DIR$/index.php.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine/hiddenmachine.php.htm" beforeDir="false" afterPath="$PROJECT_DIR$/machine/hiddenmachine.php.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/machine/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine/index.php.htm" beforeDir="false" afterPath="$PROJECT_DIR$/machine/index.php.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mission/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/mission/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mode/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/mode/index.htm" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643705841007</updated>
-      <workItem from="1643705842205" duration="1995000" />
+      <workItem from="1643705842205" duration="19749000" />
     </task>
     <servers />
   </component>
