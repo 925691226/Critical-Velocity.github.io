@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0c512b7-cffc-4dd2-9f00-4810303db827" name="变更" comment="">
+    <list default="true" id="80132c46-cf47-4c67-94ee-81a0fa11f2c6" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/README.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/character/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/character/index.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/character/index.php.htm" beforeDir="false" afterPath="$PROJECT_DIR$/character/index.php.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/character/subchar.php.htm" beforeDir="false" afterPath="$PROJECT_DIR$/character/subchar.php.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comment/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/comment/index.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concept/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/concept/index.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/index.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php.htm" beforeDir="false" afterPath="$PROJECT_DIR$/index.php.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/machine/hiddenmachine.php.htm" beforeDir="false" afterPath="$PROJECT_DIR$/machine/hiddenmachine.php.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/machine/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/machine/index.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/machine/index.php.htm" beforeDir="false" afterPath="$PROJECT_DIR$/machine/index.php.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mission/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/mission/index.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mode/index.htm" beforeDir="false" afterPath="$PROJECT_DIR$/mode/index.htm" afterDir="false" />
     </list>
@@ -21,38 +20,59 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="24VBOLyl2RKBqaElSj5UQtEWfh5" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="24Wrj7ek6r2tcFlZYxQgWlxEc3O" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="e0c512b7-cffc-4dd2-9f00-4810303db827" name="变更" comment="" />
-      <created>1643705841007</created>
+      <changelist id="80132c46-cf47-4c67-94ee-81a0fa11f2c6" name="变更" comment="" />
+      <created>1643757316869</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1643705841007</updated>
-      <workItem from="1643705842205" duration="19749000" />
+      <updated>1643757316869</updated>
+      <workItem from="1643757318299" duration="10940000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
